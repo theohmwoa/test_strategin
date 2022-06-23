@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Strateg.in Test",
+    "slug": "Strateg.in Test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
