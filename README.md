@@ -1,14 +1,16 @@
 # test_strategin
 
-#. Server
+### Server
 
-cd Server
+```cd Server
 npm install
 node server.js
+```
  
  
-# App
+### App
 
-cd App
+```cd App
 npm install
 npm run ios ou npm run android
+```
